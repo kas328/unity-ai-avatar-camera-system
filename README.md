@@ -4,23 +4,23 @@ Unity cross-platform camera system with AWS S3 integration for AI avatar generat
 
 ## 🛠 Tech Stack
 
-• Unity 2021.3+
-• C#
-• AWS SDK (S3, Cognito)
-• UniTask
-• DOTween
-• Unity WebCamTexture
-• Cross-Platform Development
+- Unity 2021.3+
+- C#
+- AWS SDK (S3, Cognito)
+- UniTask
+- DOTween
+- Unity WebCamTexture
+- Cross-Platform Development
 
 ## ⭐ Key Features
 
-• 크로스 플랫폼 카메라 시스템
-• 실시간 권한 관리
-• AWS S3 자동 업로드
-• 플랫폼별 이미지 처리
-• 앱 생명주기 관리
-• 진행률 기반 UI 연동
-• 메모리 최적화
+- 크로스 플랫폼 카메라 시스템
+- 실시간 권한 관리
+- AWS S3 자동 업로드
+- 플랫폼별 이미지 처리
+- 앱 생명주기 관리
+- 진행률 기반 UI 연동
+- 메모리 최적화
 
 ## 🎮 How It Works
 
@@ -41,9 +41,9 @@ Unity cross-platform camera system with AWS S3 integration for AI avatar generat
 
 ## 🔧 Platform Optimization
 
-• **iOS**: 전면/후면 카메라 회전 및 확대 처리
-• **Android**: 플랫폼별 카메라 방향 자동 보정
-• **권한 시스템**: 실시간 권한 상태 모니터링
-• **메모리 관리**: 텍스처 자동 해제 및 리소스 정리
+- **iOS**: 전면/후면 카메라 회전 및 확대 처리
+- **Android**: 플랫폼별 카메라 방향 자동 보정
+- **권한 시스템**: 실시간 권한 상태 모니터링
+- **메모리 관리**: 텍스처 자동 해제 및 리소스 정리
 
 > **참고**: 실제 프로덕션 환경에서는 보안을 위해 AWS 설정값들이 마스킹되어 있습니다.
