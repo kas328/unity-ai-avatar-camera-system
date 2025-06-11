@@ -46,4 +46,4 @@ Unity cross-platform camera system with AWS S3 integration for AI avatar generat
 - **권한 시스템**: 실시간 권한 상태 모니터링
 - **메모리 관리**: 텍스처 자동 해제 및 리소스 정리
 
-> **참고**: 실제 프로덕션 환경에서는 보안을 위해 AWS 설정값들이 마스킹되어 있습니다.
+> **참고**: 보안상 AWS 설정값들이 마스킹 처리되어 있습니다.
