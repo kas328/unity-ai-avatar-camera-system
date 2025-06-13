@@ -4,25 +4,25 @@ Unity cross-platform camera system with AWS S3 integration for AI avatar generat
 
 ## 🛠 Tech Stack
 
-• Unity 2021.3+
-• C#
-• AWS SDK (S3, Cognito)
-• UniTask
-• DOTween
-• Unity WebCamTexture
-• Cross-Platform Development
+- Unity 2021.3+
+- C#
+- AWS SDK (S3, Cognito)
+- UniTask
+- DOTween
+- Unity WebCamTexture
+- Cross-Platform Development
 
 ## ⭐ Key Features
 
-• 크로스 플랫폼 카메라 시스템
-• 실시간 권한 관리
-• AWS S3 자동 업로드
-• 플랫폼별 이미지 처리
-• AI 분석 결과 처리
-• 파츠 조합 알고리즘
-• 앱 생명주기 관리
-• 진행률 기반 UI 연동
-• 메모리 최적화
+- 크로스 플랫폼 카메라 시스템
+- 실시간 권한 관리
+- AWS S3 자동 업로드
+- 플랫폼별 이미지 처리
+- AI 분석 결과 처리
+- 파츠 조합 알고리즘
+- 앱 생명주기 관리
+- 진행률 기반 UI 연동
+- 메모리 최적화
 
 ## 🎮 How It Works
 
@@ -45,16 +45,16 @@ Unity cross-platform camera system with AWS S3 integration for AI avatar generat
 
 ## 🎨 Avatar Generation Logic
 
-• **카테고리 분류**: 필수/선택 파츠 자동 분류
-• **색상 동기화**: AI 분석 색상을 다른 파츠에 적용
-• **확률 시스템**: 선택적 파츠의 랜덤 장착/비장착
-• **데이터 조합**: AI 결과 + 무료 파츠 스마트 합성
+- **카테고리 분류**: 필수/선택 파츠 자동 분류
+- **색상 동기화**: AI 분석 색상을 다른 파츠에 적용
+- **확률 시스템**: 선택적 파츠의 랜덤 장착/비장착
+- **데이터 조합**: AI 결과 + 무료 파츠 스마트 합성
 
 ## 🔧 Platform Optimization
 
-• **iOS**: 전면/후면 카메라 회전 및 확대 처리
-• **Android**: 플랫폼별 카메라 방향 자동 보정
-• **권한 시스템**: 실시간 권한 상태 모니터링
-• **메모리 관리**: 텍스처 자동 해제 및 리소스 정리
+- **iOS**: 전면/후면 카메라 회전 및 확대 처리
+- **Android**: 플랫폼별 카메라 방향 자동 보정
+- **권한 시스템**: 실시간 권한 상태 모니터링
+- **메모리 관리**: 텍스처 자동 해제 및 리소스 정리
 
 > **참고**: 보안상 AWS 설정값들이 마스킹 처리되어 있습니다.
