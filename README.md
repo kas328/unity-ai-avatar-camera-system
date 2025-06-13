@@ -48,7 +48,7 @@ Unity cross-platform camera system with AWS S3 integration for AI avatar generat
 - **카테고리 분류**: 필수/선택 파츠 자동 분류
 - **색상 동기화**: AI 분석 색상을 다른 파츠에 적용
 - **확률 시스템**: 선택적 파츠의 랜덤 장착/비장착
-- **데이터 조합**: AI 결과 + 무료 파츠 스마트 합성
+- **데이터 조합**: AI 결과 + 무료 아바타 파츠 합성
 
 ## 🔧 Platform Optimization
 
